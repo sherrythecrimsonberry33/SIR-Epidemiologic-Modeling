@@ -1,0 +1,51 @@
+﻿Continent,Country,codes
+Asia,Afghanistan,110
+Asia,China,111
+Asia,India,112
+Asia,Indonesia,113
+Asia,Iran,114
+Asia,Israel,115
+Asia,Japan,116
+Asia,South Korea,117
+Asia,Malaysia,118
+Asia,Pakistan,119
+Asia,Qatar,120
+Asia,Saudi Arabia,121
+Asia,Thailand,122
+Asia,Turkey,123
+Asia,United Arab Emirates,124
+Asia,Myanmar,125
+Europe,Belgium,210
+Europe,Denmark,211
+Europe,Finland,212
+Europe,France,213
+Europe,Germany,214
+Europe,Italy,215
+Europe,Netherlands,216
+Europe,Norway,217
+Europe,Russia,218
+Europe,Spain,219
+Europe,Sweden,220
+Europe,Switzerland,221
+Europe,United Kingdom,222
+North America,Canada,310
+North America,United States,311
+South America,Argentina,410
+South America,Brazil,411
+South America,Chile,412
+South America,Peru,413
+Africa,Botswana,510
+Africa,Cameroon,511
+Africa,Egypt,512
+Africa,Ethiopia,513
+Africa,Ghana,514
+Africa,Kenya,515
+Africa,Madagascar,516
+Africa,Mozambique,517
+Africa,Nigeria,518
+Africa,Rwanda,519
+Africa,South Africa,520
+Africa,Togo,521
+Africa,Zambia,522
+Oceania,Australia,610
+Oceania,New Zealand,611
